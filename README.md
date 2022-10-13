@@ -12,7 +12,7 @@
 
 ## 这是用什么制作的？
 
-本文档使用[Typora](https://typoraio.cn/)编写，可以将Markdown文件使用脚手架程序和[Vercel](https://vercel.com/)配合进行页面构建和部署。
+本文档使用[Typora](https://typoraio.cn/)编写，可以将Markdown文件使用脚手架和[Vercel](https://vercel.com/)配合进行页面构建和部署。
 当然，如果您自己有更好的办法，也可以用您自己的办法完成。我们只是在此处推荐一个比较好的办法，是否使用由您决定。
 
 ## 我该如何使用这份说明？
