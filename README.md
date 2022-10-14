@@ -21,4 +21,4 @@
 本说明不定期更新。对本说明内容有疑问？可以在[此处](https://github.com/MetallicAllex/FurQQBotDocs/issues)提交issue；
 或者，您也可以自己Fork本项目，在修改好之后在[此处](https://github.com/MetallicAllex/FurQQBotDocs/pulls)提交pr以合并修改内容。
 
-**由[〖天蓝〗](https://github.com/MetallicAllex)撰写于【2022年10月14日】。*
+**本README由[〖天蓝〗](https://github.com/MetallicAllex)撰写于【2022年10月15日】，文档内容完善于同一天。*
