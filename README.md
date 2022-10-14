@@ -1,14 +1,14 @@
 <div align="center" >
   <img height="128" src="https://cdn.jsdelivr.net/gh/BuDingOwO/BuDingOwO@master/Picture/Overview-IMG.gif" alt="">
 </div>
-<h3 align="center" >QQBot通用使用说明</h3>
-<h4 align="center">（主要适用于大部分的QQBot）</h4>
+<h3 align="center" >FurBot通用使用说明</h3>
+<h4 align="center">（主要适用于FurBot）</h4>
 
 # FAQ：
 
 ## 这个项目是什么？
 
-这是一份主要针对于大部分QQBot的使用说明，隐私政策和用户协议Markdown文件。
+这是一份主要针对于FurBot的使用说明，隐私政策和用户协议Markdown文件。
 
 ## 这是用什么制作的？
 
